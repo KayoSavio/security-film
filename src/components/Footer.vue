@@ -4,20 +4,9 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         <!-- Company Info -->
         <div class="lg:col-span-2">
-          <div class="flex items-center space-x-3 mb-6">
-            <div class="w-12 h-12 bg-gradient-to-br from-primary-500 to-primary-600 rounded-lg flex items-center justify-center">
-              <svg class="w-8 h-8 text-white" viewBox="0 0 32 32" fill="currentColor">
-                <!-- Shield shape with eagle -->
-                <path d="M16 2L28 8V16C28 24 22 28 16 30C10 28 4 24 4 16V8L16 2Z" fill="currentColor"/>
-                <path d="M16 6L24 10V16C24 21 20 24 16 26C12 24 8 21 8 16V10L16 6Z" fill="white" fill-opacity="0.9"/>
-                <!-- Eagle head silhouette -->
-                <path d="M12 12C12 12 14 14 16 14C18 14 20 12 20 12L19 16C19 16 17 18 16 18C15 18 13 16 13 16L12 12Z" fill="currentColor"/>
-              </svg>
-            </div>
-            <div>
-              <h3 class="text-2xl font-bold text-white">Security</h3>
-              <h4 class="text-xl font-bold text-primary-400">Film</h4>
-            </div>
+          <div class="flex items-center">
+            <img src="/assets/logoWhite.svg" alt="Security Film Logo" class="w-full" />
+            
           </div>
           <p class="text-gray-300 mb-6 max-w-md">
             Especialistas em películas automotivas de alta qualidade. Oferecemos proteção UV, privacidade e estilo para seu veículo com os melhores materiais do mercado.
